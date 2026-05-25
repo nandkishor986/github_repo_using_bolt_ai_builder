@@ -1,9 +1,0 @@
-{
-  "name": "vm-health-check",
-  "version": "1.0.0",
-  "description": "VM Health Check Script for Ubuntu",
-  "scripts": {
-    "build": "echo 'No build required for shell script'",
-    "start": "./vm-health-check.sh"
-  }
-}
